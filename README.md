@@ -1,4 +1,4 @@
-Olá sou Rafael dos Santos!🧑🏼‍💻
+Hello, I'm Rafael dos Santos!🧑🏼‍💻
 <div align="center">
   <a href="https://github.com/FaelSantoss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaelSantoss&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
@@ -9,9 +9,12 @@ Olá sou Rafael dos Santos!🧑🏼‍💻
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Icone-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Icone-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="Icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Icone-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Icone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Icone-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Icone-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
   
