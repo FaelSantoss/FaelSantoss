@@ -2,7 +2,7 @@ Hello, I'm Rafael dos Santos!🧑🏼‍💻
 <div align="center">
   <a href="https://github.com/FaelSantoss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaelSantoss&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaelSantoss&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaelSantoss&layout=compact&langs_count=7&theme=nord&type=public"/>
 </div>
   
 <div style="align: center">
